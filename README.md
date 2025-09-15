@@ -1,9 +1,11 @@
 # lab-01-zeljka-zujic
 Lab 1 -Ionic Framework Setup and First App Development (MADD)
 
-## Lab 1 – Setting up Ionic Framework and Developing First App
-## Course: Introduction to Mobile App Design and Development, R0334-3014
-## Teacher: Kalpana Rathod
+## Assignment details:
+
+Assignment name: Lab 1 – Setting up Ionic Framework and Developing First App
+Course: Introduction to Mobile App Design and Development, R0334-3014
+Teacher: Kalpana Rathod
 
 ## Index
 
