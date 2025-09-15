@@ -87,7 +87,7 @@ Node.js that is installed on my computer.
 
 ### Node.js instalation screenshots
 
-- [Node.js Screenshots](screenshots/node.js)
+- [Node.js Screenshots](../screenshots/node.js)
 
 
 ## Git
@@ -108,7 +108,7 @@ screenshot.
 
 ### Git update screenshots
 
-- [Git Screenshots](screenshots/git)
+- [Git Screenshots](../screenshots/git)
 
 
 ## Visual Studio Code
@@ -125,7 +125,7 @@ version of VSC is the one from August 2025.
 
 ### Visual Studio Code update screenshots
 
-- [Visual Studio Code Screenshots](screenshots/visual_studio_code)
+- [Visual Studio Code Screenshots](../screenshots/visual_studio_code)
 
 
 ## Java JDK
@@ -141,7 +141,7 @@ issue, since this is the only version of Java JDK installed on my computer.
 
 ### JavaJDK installation screenshots
 
-- [Java JDK Screenshots](screenshots/java_jdk)
+- [Java JDK Screenshots](../screenshots/java_jdk)
 
 
 ## Ionic CLI and First App Development
@@ -177,7 +177,7 @@ serve which opened FirstApp in the new tab of my browser.
 
 ### Ionic installation and First App Developmet Screenshots
 
-- [Ionic Screenshots](screenshots/ionic)
+- [Ionic Screenshots](../screenshots/ionic)
 
 
 ## References
