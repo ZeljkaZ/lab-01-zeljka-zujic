@@ -1,6 +1,6 @@
 # Labwork 1 - Setting up Ionic Framework and Developing First App
 
-##Introduction
+## Introduction
 
 This report is written as a part of Labwork 1 – a practical assignment from Module
 1, where students were expected to study module materials, complete an online
