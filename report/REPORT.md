@@ -85,6 +85,11 @@ installation was successful or not. In the last screenshot, you can see
 the output I got after the command node -v, which checks for the version of
 Node.js that is installed on my computer.
 
+### Node.js instalation screenshots
+
+- [Node.js Screenshots](screenshots/node.js)
+
+
 ## Git
 
 I already have Git installed on my computer. We used Git and GitHub Desktop for
@@ -101,6 +106,11 @@ showed version 2.51.0. Lastly, I checked the configuration, making
 sure that my username and email are still in place, which you can see in the last
 screenshot.
 
+### Git update screenshots
+
+- [Git Screenshots](screenshots/git)
+
+
 ## Visual Studio Code
 
 Just like Git, I already had Visual Studio Code installed, and I used it
@@ -113,6 +123,11 @@ downloaded the last version of VSC. I replaced the old VSC with the
 newest version in the Applications folder. Therefore, my current
 version of VSC is the one from August 2025.
 
+### Visual Studio Code update screenshots
+
+- [Visual Studio Code Screenshots](screenshots/visual_studio_code)
+
+
 ## Java JDK
 
 I did not have Java JDK installed, so I followed the link provided in the instructions.
@@ -124,7 +139,12 @@ Terminal to check whether the installation was successful. I did not
 have an option to set environment variables, but I assume that it will not be an
 issue, since this is the only version of Java JDK installed on my computer.
 
-## Ionic CLI
+### JavaJDK installation screenshots
+
+- [Java JDK Screenshots](screenshots/java_jdk)
+
+
+## Ionic CLI and First App Development
 
 For this part of the assignment, I first wanted to make sure that I did not have Ionic
 installed, since I am not the first user of this computer. However,
@@ -154,6 +174,11 @@ clear that the app folder had already been created in the previous attempt, whic
 decided to overwrite. The process was successful this time. I was asked to create an Ionic account, which I
 refused. I then ran cd FirstApp as per instructions, and then ionic
 serve which opened FirstApp in the new tab of my browser. 
+
+### Ionic installation and First App Developmet Screenshots
+
+- [Ionic Screenshots](screenshots/ionic)
+
 
 ## References
 
